@@ -1,0 +1,273 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+ul {
+    padding: 0px!important;
+}
+.menu-principal {
+    background-color: #ffffff;
+    height: 60px;
+}
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.logo {
+    float: left;
+    padding: 6px;
+    z-index: 10;
+    position: relative;
+}
+.rede-sociais ul li {
+    margin-left: 15px;
+    display: inline-block;
+    float: left;
+    margin-top: -5;
+}
+.rede-sociais {
+    float: right;
+    margin-top: 5px;
+}
+.backlogo {
+    float: left;
+    padding: 6px;
+    margin-top: -20;
+    margin-left: -320;
+    z-index: 9;
+}
+.contatoslogo {
+float: right;
+margin-top: 12px;
+}
+.header-2 {
+    width: 100%auto;
+    margin-left: 600px;
+    margin-top: -60px;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+    z-index: -1;
+    margin-top: -150px;
+    overflow: hidden;
+}
+.informacoes {
+    margin-top: 185px;
+    float: right;
+    
+}
+.titulo1 {
+    float: left;
+    margin-top: 227px;
+    margin-left: 255px;
+}
+.significado-mangara {
+    margin-left: 255px;
+    margin-top: 299px;
+}
+.salaomangara {
+    margin-top: 255px;
+    margin-left: 142px;
+}
+.slider-fotos {
+    margin-top: -45px;
+    margin-left: 95;
+    width: 800px;
+    height: 470px;
+}
+button.slick-prev {
+    font-size: 0px;
+    border: none;
+    width: 53px;
+    height: 53px;
+    background-color: transparent;
+    background-image: url(../img/esquerda.png);
+    position: relative;
+    z-index: 2000;
+    top: 55%;
+    left: -0;
+}
+button.slick-next {
+    font-size: 0px;
+    border: none;
+    width: 53px;
+    height: 53px;
+    background-color: transparent;
+    background-image: url(../img/direita.png);
+    position: relative;
+    z-index: 2001;
+    top: -255;
+    right: -747;
+}
+.slick-initialized {
+    overflow: hidden;
+}
+.nossa-ambientacao {
+    float: right;
+    margin-right: 390px;
+    margin-top: -295;
+}
+.texto-ambientacao {
+    margin-top: 40px;
+}
+.textosalao {
+    margin-left: 419;
+    margin-top: 5;
+}
+.praiamoitas {
+    overflow: hidden;
+    width: 100%;
+    margin-top: 230px;
+}
+.galeriadefotos {
+    margin-top: -656;
+    width: 100%;
+    margin-left: 710;
+}
+.nossas-acomodacoes {
+    margin-left: 710;
+    margin-top: 450px;
+}
+.joao-de-barro {
+    margin-top: 87;
+    float: left;
+    margin-left: 389px;
+}
+.bemtivii {
+    margin-top: 87;
+    float: left;
+    margin-left: 60px;
+}
+.sabiaa {
+    margin-top: 87;
+    float: left;
+    margin-left: 60px;
+}
+.descricao1 {
+    width: 300px;
+    height: 199px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -520px;
+    margin-left: 29px;
+}
+.descricao2 {
+    width: 230px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -520;
+    margin-left: 29px;
+}
+.descricao3 {
+    width: 230px;
+    height: 106px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -520;
+    margin-left: 29px;  
+}
+.oquepossui1 {
+    margin-left: 65;
+    margin-top: 13;
+}
+.oquepossui2 {
+    margin-left: 60;
+    margin-top: 11;
+}
+.oquepossui3 {
+    float: left;
+    margin-left: -684;
+    margin-top: 609;
+}
+.fotosjoaodebarro {
+    float: left;
+    margin-top: 960;
+    margin-left: -650;
+}
+.fotosbemtivi {
+    float: left;
+    margin-top: 960;
+    margin-left: -244;
+}
+.fotossabia {
+    float: left;
+    margin-top: 960;
+    margin-left: -1055;
+}
+.siganasredes {
+    margin-top: 1160;
+    position: relative;
+    z-index: inherit;
+}
+.redes {
+    width: 590px;
+    height: 44px;
+    margin-top: -550;
+    position: absolute;
+    margin-left: 625;
+}
+.redes2 {
+    width: 590px;
+    height: 44px;
+    margin-top: -550;
+    position: absolute;
+    margin-left: 960;
+}
+.localizacaomg {
+    margin-top: 150;
+    position: relative;
+}
+.veja-mapa {
+    width: 187px;
+    height: 52px;
+    position: absolute;
+    margin-top: -80;
+    margin-left: 498;
+}
+.reservas {
+    width: 1920px;
+    height: 987px;
+}
+body {font-family: 'Roboto', sans-serif;}
+.content {
+    display: flex;
+    justify-content: center;
+}
+.contato {
+    width: 580px;
+    margin-top: -775px;
+    float: left;
+    margin-left: -85px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.field {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.textarea {
+    height: 176px; width: 585px;
+}
+.textocelular {
+width: 120px;
+height: 24px;
+float: right;
+position: absolute;
+margin-top: -725;
+margin-left: 1230;
+}
+.textoemail {
+width: 213px;
+height: 24px;
+float: right;
+position: relative;
+margin-top: -640;
+margin-right: 455;
+}
